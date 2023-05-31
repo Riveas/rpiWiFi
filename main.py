@@ -2,8 +2,8 @@ import network
 import socket
 from machine import Pin
 
-ssid = "TpLink_63"
-password = "J3B4C#P1S"
+ssid = ""
+password = ""
 
 buzzer = Pin(15, Pin.OUT)
 
